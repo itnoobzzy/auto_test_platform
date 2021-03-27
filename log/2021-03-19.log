@@ -1,0 +1,115 @@
+2021-03-19 18:23:06,822 INFO     deal_log.py[line:30] paas_index:8
+2021-03-19 18:23:06,834 INFO     deal_log.py[line:30] case_info_list:[{'case_name': '集群间复制_通过万兆网复制_正常_内存表', 'case_type': '分布式内存数据库', 'preset_data': 'http://172.18.238.62:9001/svn/BILLING_KPI/projects/FY18/研发项目/Y12011计费套餐测试库_全行业 V1.0.0_BILLING/开发库/05产品测试/dmdb/DMDBTEST/test/expect/T1-3-13-1-1-1-1.ok', 'input_data': 'http://172.18.238.62:9001/svn/BILLING_KPI/projects/FY18/研发项目/Y12011计费套餐测试库_全行业 V1.0.0_BILLING/开发库/05产品测试/dmdb/DMDBTEST/case/function/manage/T1-3-13-1-1-1-1.txt', 'case_num': 'T1-3-13-1-1-1-1'}, {'case_name': '集群间复制_通过万兆网复制_正常_磁盘表', 'case_type': '分布式内存数据库', 'preset_data': 'http://172.18.238.62:9001/svn/BILLING_KPI/projects/FY18/研发项目/Y12011计费套餐测试库_全行业 V1.0.0_BILLING/开发库/05产品测试/dmdb/DMDBTEST/test/expect/T1-3-13-1-1-1-2.ok', 'input_data': 'http://172.18.238.62:9001/svn/BILLING_KPI/projects/FY18/研发项目/Y12011计费套餐测试库_全行业 V1.0.0_BILLING/开发库/05产品测试/dmdb/DMDBTEST/case/function/manage/T1-3-13-1-1-1-2.txt', 'case_num': 'T1-3-13-1-1-1-2'}, {'case_name': '集群间复制_通过ib网卡复制_正常_内存表', 'case_type': '分布式内存数据库', 'preset_data': 'http://172.18.238.62:9001/svn/BILLING_KPI/projects/FY18/研发项目/Y12011计费套餐测试库_全行业 V1.0.0_BILLING/开发库/05产品测试/dmdb/DMDBTEST/test/expect/T1-3-13-1-2-1-1.ok', 'input_data': 'http://172.18.238.62:9001/svn/BILLING_KPI/projects/FY18/研发项目/Y12011计费套餐测试库_全行业 V1.0.0_BILLING/开发库/05产品测试/dmdb/DMDBTEST/case/function/manage/T1-3-13-1-2-1-1.txt', 'case_num': 'T1-3-13-1-2-1-1'}, {'case_name': '集群间复制_通过ib网卡复制_正常_磁盘表', 'case_type': '分布式内存数据库', 'preset_data': 'http://172.18.238.62:9001/svn/BILLING_KPI/projects/FY18/研发项目/Y12011计费套餐测试库_全行业 V1.0.0_BILLING/开发库/05产品测试/dmdb/DMDBTEST/test/expect/T1-3-13-1-2-1-2.ok', 'input_data': 'http://172.18.238.62:9001/svn/BILLING_KPI/projects/FY18/研发项目/Y12011计费套餐测试库_全行业 V1.0.0_BILLING/开发库/05产品测试/dmdb/DMDBTEST/case/function/manage/T1-3-13-1-2-1-2.txt', 'case_num': 'T1-3-13-1-2-1-2'}, {'case_name': '集群间复制_复制进度查询_正常_内存表', 'case_type': '分布式内存数据库', 'preset_data': 'http://172.18.238.62:9001/svn/BILLING_KPI/projects/FY18/研发项目/Y12011计费套餐测试库_全行业 V1.0.0_BILLING/开发库/05产品测试/dmdb/DMDBTEST/test/expect/T1-3-13-1-3-1-1.ok', 'input_data': 'http://172.18.238.62:9001/svn/BILLING_KPI/projects/FY18/研发项目/Y12011计费套餐测试库_全行业 V1.0.0_BILLING/开发库/05产品测试/dmdb/DMDBTEST/case/function/manage/T1-3-13-1-3-1-1.txt', 'case_num': 'T1-3-13-1-3-1-1'}, {'case_name': '集群间复制_复制进度查询_正常_磁盘表', 'case_type': '分布式内存数据库', 'preset_data': 'http://172.18.238.62:9001/svn/BILLING_KPI/projects/FY18/研发项目/Y12011计费套餐测试库_全行业 V1.0.0_BILLING/开发库/05产品测试/dmdb/DMDBTEST/test/expect/T1-3-13-1-3-1-2.ok', 'input_data': 'http://172.18.238.62:9001/svn/BILLING_KPI/projects/FY18/研发项目/Y12011计费套餐测试库_全行业 V1.0.0_BILLING/开发库/05产品测试/dmdb/DMDBTEST/case/function/manage/T1-3-13-1-3-1-2.txt', 'case_num': 'T1-3-13-1-3-1-2'}]
+2021-03-19 18:27:36,363 INFO     deal_log.py[line:30] paas_index:8
+2021-03-19 18:27:36,376 INFO     deal_log.py[line:30] case_info_list:[{'case_name': '集群间复制_通过万兆网复制_正常_内存表', 'case_type': '分布式内存数据库', 'preset_data': 'http://172.18.238.62:9001/svn/BILLING_KPI/projects/FY18/研发项目/Y12011计费套餐测试库_全行业 V1.0.0_BILLING/开发库/05产品测试/dmdb/DMDBTEST/test/expect/T1-3-13-1-1-1-1.ok', 'input_data': 'http://172.18.238.62:9001/svn/BILLING_KPI/projects/FY18/研发项目/Y12011计费套餐测试库_全行业 V1.0.0_BILLING/开发库/05产品测试/dmdb/DMDBTEST/case/function/manage/T1-3-13-1-1-1-1.txt', 'case_num': 'T1-3-13-1-1-1-1'}, {'case_name': '集群间复制_通过万兆网复制_正常_磁盘表', 'case_type': '分布式内存数据库', 'preset_data': 'http://172.18.238.62:9001/svn/BILLING_KPI/projects/FY18/研发项目/Y12011计费套餐测试库_全行业 V1.0.0_BILLING/开发库/05产品测试/dmdb/DMDBTEST/test/expect/T1-3-13-1-1-1-2.ok', 'input_data': 'http://172.18.238.62:9001/svn/BILLING_KPI/projects/FY18/研发项目/Y12011计费套餐测试库_全行业 V1.0.0_BILLING/开发库/05产品测试/dmdb/DMDBTEST/case/function/manage/T1-3-13-1-1-1-2.txt', 'case_num': 'T1-3-13-1-1-1-2'}, {'case_name': '集群间复制_通过ib网卡复制_正常_内存表', 'case_type': '分布式内存数据库', 'preset_data': 'http://172.18.238.62:9001/svn/BILLING_KPI/projects/FY18/研发项目/Y12011计费套餐测试库_全行业 V1.0.0_BILLING/开发库/05产品测试/dmdb/DMDBTEST/test/expect/T1-3-13-1-2-1-1.ok', 'input_data': 'http://172.18.238.62:9001/svn/BILLING_KPI/projects/FY18/研发项目/Y12011计费套餐测试库_全行业 V1.0.0_BILLING/开发库/05产品测试/dmdb/DMDBTEST/case/function/manage/T1-3-13-1-2-1-1.txt', 'case_num': 'T1-3-13-1-2-1-1'}, {'case_name': '集群间复制_通过ib网卡复制_正常_磁盘表', 'case_type': '分布式内存数据库', 'preset_data': 'http://172.18.238.62:9001/svn/BILLING_KPI/projects/FY18/研发项目/Y12011计费套餐测试库_全行业 V1.0.0_BILLING/开发库/05产品测试/dmdb/DMDBTEST/test/expect/T1-3-13-1-2-1-2.ok', 'input_data': 'http://172.18.238.62:9001/svn/BILLING_KPI/projects/FY18/研发项目/Y12011计费套餐测试库_全行业 V1.0.0_BILLING/开发库/05产品测试/dmdb/DMDBTEST/case/function/manage/T1-3-13-1-2-1-2.txt', 'case_num': 'T1-3-13-1-2-1-2'}, {'case_name': '集群间复制_复制进度查询_正常_内存表', 'case_type': '分布式内存数据库', 'preset_data': 'http://172.18.238.62:9001/svn/BILLING_KPI/projects/FY18/研发项目/Y12011计费套餐测试库_全行业 V1.0.0_BILLING/开发库/05产品测试/dmdb/DMDBTEST/test/expect/T1-3-13-1-3-1-1.ok', 'input_data': 'http://172.18.238.62:9001/svn/BILLING_KPI/projects/FY18/研发项目/Y12011计费套餐测试库_全行业 V1.0.0_BILLING/开发库/05产品测试/dmdb/DMDBTEST/case/function/manage/T1-3-13-1-3-1-1.txt', 'case_num': 'T1-3-13-1-3-1-1'}, {'case_name': '集群间复制_复制进度查询_正常_磁盘表', 'case_type': '分布式内存数据库', 'preset_data': 'http://172.18.238.62:9001/svn/BILLING_KPI/projects/FY18/研发项目/Y12011计费套餐测试库_全行业 V1.0.0_BILLING/开发库/05产品测试/dmdb/DMDBTEST/test/expect/T1-3-13-1-3-1-2.ok', 'input_data': 'http://172.18.238.62:9001/svn/BILLING_KPI/projects/FY18/研发项目/Y12011计费套餐测试库_全行业 V1.0.0_BILLING/开发库/05产品测试/dmdb/DMDBTEST/case/function/manage/T1-3-13-1-3-1-2.txt', 'case_num': 'T1-3-13-1-3-1-2'}]
+2021-03-19 18:32:02,885 INFO     deal_log.py[line:30] paas_index:6
+2021-03-19 18:32:02,898 INFO     deal_log.py[line:30] case_info_list:[{'case_name': 'asd', 'case_type': '分布式内存数据库', 'preset_data': '', 'input_data': 'asd', 'case_num': '分布式内存数据库_2021-03-12 13:48:07'}, {'case_name': 'test_paas', 'case_type': '分布式内存数据库', 'preset_data': 'paas', 'input_data': 'python3 -m pytest -q /home/test_demo.py', 'case_num': '分布式内存数据库_2021-03-12 16:23:12'}, {'case_name': 'asdaswwd', 'case_type': '分布式内存数据库', 'preset_data': 'paas', 'input_data': 'python3 -m pytest -q /home/', 'case_num': '分布式内存数据库_2021-03-12 16:28:43'}, {'case_name': 'test', 'case_type': '', 'preset_data': 'asd', 'input_data': 'asd', 'case_num': None}]
+2021-03-19 18:32:02,937 ERROR    log.py[line:222] Internal Server Error: /config_manage/batch_export_case/
+Traceback (most recent call last):
+  File "D:\anaconda\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\anaconda\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\anaconda\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\anaconda\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "D:\anaconda\lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\anaconda\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "D:\anaconda\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\anaconda\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\anaconda\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "D:\workfire\auto_test_platform\apps\config_manage\views.py", line 405, in batch_export_case
+    self.deal_excel.save(BASE_DIR + '\\static\\' +file_name)
+  File "D:\workfire\auto_test_platform\utils\deal_excel.py", line 25, in save
+    self.xlsxBook.save(file_name)
+  File "D:\anaconda\lib\site-packages\openpyxl\workbook\workbook.py", line 392, in save
+    save_workbook(self, filename)
+  File "D:\anaconda\lib\site-packages\openpyxl\writer\excel.py", line 291, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "D:\anaconda\lib\zipfile.py", line 1251, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'D:\\workfire\\auto_test_platform\\static\\test.xls'
+2021-03-19 18:33:42,356 INFO     deal_log.py[line:30] paas_index:6
+2021-03-19 18:33:42,368 INFO     deal_log.py[line:30] case_info_list:[{'case_name': 'asd', 'case_type': '分布式内存数据库', 'preset_data': '', 'input_data': 'asd', 'case_num': '分布式内存数据库_2021-03-12 13:48:07'}, {'case_name': 'test_paas', 'case_type': '分布式内存数据库', 'preset_data': 'paas', 'input_data': 'python3 -m pytest -q /home/test_demo.py', 'case_num': '分布式内存数据库_2021-03-12 16:23:12'}, {'case_name': 'asdaswwd', 'case_type': '分布式内存数据库', 'preset_data': 'paas', 'input_data': 'python3 -m pytest -q /home/', 'case_num': '分布式内存数据库_2021-03-12 16:28:43'}, {'case_name': 'test', 'case_type': '', 'preset_data': 'asd', 'input_data': 'asd', 'case_num': None}]
+2021-03-19 18:34:48,951 INFO     autoreload.py[line:217] D:\workfire\auto_test_platform\apps\config_manage\views.py changed, reloading.
+2021-03-19 18:35:03,810 INFO     deal_log.py[line:30] paas_index:6
+2021-03-19 18:35:03,823 INFO     deal_log.py[line:30] case_info_list:[{'case_name': 'asd', 'case_type': '分布式内存数据库', 'preset_data': '', 'input_data': 'asd', 'case_num': '分布式内存数据库_2021-03-12 13:48:07'}, {'case_name': 'test_paas', 'case_type': '分布式内存数据库', 'preset_data': 'paas', 'input_data': 'python3 -m pytest -q /home/test_demo.py', 'case_num': '分布式内存数据库_2021-03-12 16:23:12'}, {'case_name': 'asdaswwd', 'case_type': '分布式内存数据库', 'preset_data': 'paas', 'input_data': 'python3 -m pytest -q /home/', 'case_num': '分布式内存数据库_2021-03-12 16:28:43'}, {'case_name': 'test', 'case_type': '', 'preset_data': 'asd', 'input_data': 'asd', 'case_num': None}]
+2021-03-19 18:35:04,191 INFO     deal_log.py[line:30] paas_index:3
+2021-03-19 18:35:04,204 INFO     deal_log.py[line:30] case_info_list:[{'case_name': '新增用例', 'case_type': '', 'preset_data': '', 'input_data': '', 'case_num': ''}]
+2021-03-19 18:35:04,302 INFO     deal_log.py[line:30] paas_index:4
+2021-03-19 18:35:04,314 INFO     deal_log.py[line:30] case_info_list:[{'case_name': '新增用例', 'case_type': '', 'preset_data': '', 'input_data': '', 'case_num': ''}]
+2021-03-19 18:37:21,947 INFO     autoreload.py[line:217] D:\workfire\auto_test_platform\apps\config_manage\views.py changed, reloading.
+2021-03-19 18:51:41,962 INFO     deal_log.py[line:30] 有效行数:3
+2021-03-19 18:51:41,974 INFO     deal_log.py[line:30] 合并单元格:[]
+2021-03-19 18:51:41,987 INFO     deal_log.py[line:30] row_list:[[1], [2]]
+2021-03-19 18:51:42,000 INFO     deal_log.py[line:30] template_name:, <class 'str'>
+2021-03-19 18:51:42,268 ERROR    log.py[line:222] Internal Server Error: /config_manage/batch_import_case/
+Traceback (most recent call last):
+  File "D:\anaconda\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\anaconda\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\anaconda\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\anaconda\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "D:\anaconda\lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\anaconda\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "D:\anaconda\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\anaconda\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\anaconda\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "D:\workfire\auto_test_platform\apps\config_manage\views.py", line 471, in batch_import_case
+    self._insert_table(rows, table, user_name)
+  File "D:\workfire\auto_test_platform\apps\config_manage\views.py", line 293, in _insert_table
+    template_id = self._insert_template_table(template_name, module_type, user_name)
+  File "D:\workfire\auto_test_platform\apps\config_manage\views.py", line 231, in _insert_template_table
+    template_info = TCaseTemplateInfo.save(**save_data)
+TypeError: save() got an unexpected keyword argument 'module_name'
+2021-03-19 18:58:07,783 INFO     deal_log.py[line:30] 有效行数:3
+2021-03-19 18:58:07,799 INFO     deal_log.py[line:30] 合并单元格:[]
+2021-03-19 18:58:07,813 INFO     deal_log.py[line:30] row_list:[[1], [2]]
+2021-03-19 18:58:07,826 INFO     deal_log.py[line:30] template_name:, <class 'str'>
+2021-03-19 18:58:08,081 ERROR    log.py[line:222] Internal Server Error: /config_manage/batch_import_case/
+Traceback (most recent call last):
+  File "D:\anaconda\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\anaconda\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\anaconda\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\anaconda\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "D:\anaconda\lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\anaconda\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "D:\anaconda\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\anaconda\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\anaconda\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "D:\workfire\auto_test_platform\apps\config_manage\views.py", line 471, in batch_import_case
+    self._insert_table(rows, table, user_name)
+  File "D:\workfire\auto_test_platform\apps\config_manage\views.py", line 293, in _insert_table
+    template_id = self._insert_template_table(template_name, module_type, user_name)
+  File "D:\workfire\auto_test_platform\apps\config_manage\views.py", line 231, in _insert_template_table
+    template_info = TCaseTemplateInfo.save(**save_data)
+TypeError: save() got an unexpected keyword argument 'module_name'
+2021-03-19 19:02:46,096 INFO     autoreload.py[line:217] D:\workfire\auto_test_platform\apps\config_manage\views.py changed, reloading.
+2021-03-19 19:07:42,544 INFO     deal_log.py[line:30] 有效行数:3
+2021-03-19 19:07:42,559 INFO     deal_log.py[line:30] 合并单元格:[]
+2021-03-19 19:07:42,574 INFO     deal_log.py[line:30] row_list:[[1], [2]]
+2021-03-19 19:07:42,588 INFO     deal_log.py[line:30] template_name:, <class 'str'>
+2021-03-19 19:08:10,603 INFO     deal_log.py[line:30] template_name:testsss, <class 'str'>

@@ -1,0 +1,86 @@
+
+==================================== ERRORS ====================================
+_ ERROR collecting code/code/intelligenttestplatform/telTestLib/app/paas/paas_deal_test.py _
+ImportError while importing test module '/home/code/code/intelligenttestplatform/telTestLib/app/paas/paas_deal_test.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+/usr/local/python3/lib/python3.7/importlib/__init__.py:127: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+../code/code/intelligenttestplatform/telTestLib/__init__.py:1: in <module>
+    import pymysql
+E   ModuleNotFoundError: No module named 'pymysql'
+_ ERROR collecting code/code/intelligenttestplatform/telTestLib/app/test/deal_test.py _
+ImportError while importing test module '/home/code/code/intelligenttestplatform/telTestLib/app/test/deal_test.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+/usr/local/python3/lib/python3.7/importlib/__init__.py:127: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+../code/code/intelligenttestplatform/telTestLib/__init__.py:1: in <module>
+    import pymysql
+E   ModuleNotFoundError: No module named 'pymysql'
+_ ERROR collecting code/code/intelligenttestplatform/telTestLib/app/test/execute_test.py _
+ImportError while importing test module '/home/code/code/intelligenttestplatform/telTestLib/app/test/execute_test.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+/usr/local/python3/lib/python3.7/importlib/__init__.py:127: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+../code/code/intelligenttestplatform/telTestLib/__init__.py:1: in <module>
+    import pymysql
+E   ModuleNotFoundError: No module named 'pymysql'
+_ ERROR collecting code/code/intelligenttestplatform/telTestLib/interface_manage/test_manage.py _
+ImportError while importing test module '/home/code/code/intelligenttestplatform/telTestLib/interface_manage/test_manage.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+/usr/local/python3/lib/python3.7/importlib/__init__.py:127: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+../code/code/intelligenttestplatform/telTestLib/__init__.py:1: in <module>
+    import pymysql
+E   ModuleNotFoundError: No module named 'pymysql'
+_ ERROR collecting code/intelligenttestplatform/telTestLib/app/paas/paas_deal_test.py _
+ImportError while importing test module '/home/code/intelligenttestplatform/telTestLib/app/paas/paas_deal_test.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+/usr/local/python3/lib/python3.7/importlib/__init__.py:127: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+../code/intelligenttestplatform/telTestLib/__init__.py:1: in <module>
+    import pymysql
+E   ModuleNotFoundError: No module named 'pymysql'
+_ ERROR collecting code/intelligenttestplatform/telTestLib/app/test/deal_test.py _
+ImportError while importing test module '/home/code/intelligenttestplatform/telTestLib/app/test/deal_test.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+/usr/local/python3/lib/python3.7/importlib/__init__.py:127: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+../code/intelligenttestplatform/telTestLib/__init__.py:1: in <module>
+    import pymysql
+E   ModuleNotFoundError: No module named 'pymysql'
+_ ERROR collecting code/intelligenttestplatform/telTestLib/app/test/execute_test.py _
+ImportError while importing test module '/home/code/intelligenttestplatform/telTestLib/app/test/execute_test.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+/usr/local/python3/lib/python3.7/importlib/__init__.py:127: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+../code/intelligenttestplatform/telTestLib/__init__.py:1: in <module>
+    import pymysql
+E   ModuleNotFoundError: No module named 'pymysql'
+_ ERROR collecting code/intelligenttestplatform/telTestLib/interface_manage/test_manage.py _
+ImportError while importing test module '/home/code/intelligenttestplatform/telTestLib/interface_manage/test_manage.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+/usr/local/python3/lib/python3.7/importlib/__init__.py:127: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+../code/intelligenttestplatform/telTestLib/__init__.py:1: in <module>
+    import pymysql
+E   ModuleNotFoundError: No module named 'pymysql'
+------------- generated html file: file:///home/result/63791.html --------------
+=========================== short test summary info ============================
+ERROR ../code/code/intelligenttestplatform/telTestLib/app/paas/paas_deal_test.py
+ERROR ../code/code/intelligenttestplatform/telTestLib/app/test/deal_test.py
+ERROR ../code/code/intelligenttestplatform/telTestLib/app/test/execute_test.py
+ERROR ../code/code/intelligenttestplatform/telTestLib/interface_manage/test_manage.py
+ERROR ../code/intelligenttestplatform/telTestLib/app/paas/paas_deal_test.py
+ERROR ../code/intelligenttestplatform/telTestLib/app/test/deal_test.py
+ERROR ../code/intelligenttestplatform/telTestLib/app/test/execute_test.py
+ERROR ../code/intelligenttestplatform/telTestLib/interface_manage/test_manage.py
+!!!!!!!!!!!!!!!!!!! Interrupted: 8 errors during collection !!!!!!!!!!!!!!!!!!!!
+8 errors in 0.35s

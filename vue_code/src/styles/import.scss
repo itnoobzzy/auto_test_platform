@@ -1,0 +1,173 @@
+@import './reset.scss';
+// 批量管理-导入
+.import-tab{
+    .el-tabs__header{
+        border: none;
+        margin: 0;
+    }
+    .el-tabs__nav{
+        border: none !important;
+        .el-tabs__item{
+            width: 120px;
+            height: 40px;
+            background: rgba(46,88,247,0.1);
+            border-radius: 4px 4px 0px 0px !important;
+            font-size: 16px;
+            font-weight: 500;
+            text-align: center;
+            line-height: 40px;
+            color: #2e58f7;
+            border: none;
+            margin-right: 8px;
+        }
+        .el-tabs__item.is-active{
+            background: #2e58f7;
+            color: #fff;
+        }
+    }
+    .el-tabs__content{
+        background: #fff;
+        min-height: 628px;
+        margin-bottom: 12px;
+        position: relative;
+        padding: 20px;
+        .upload-demo{
+            width: 384px;
+            height: 195px;
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            margin: auto;
+            .el-upload-dragger{
+                background: #f8f9fc;
+                border-radius: 8px;
+                border: none;
+                .el-icon-upload{
+                    width: 60px;
+                    height: 57px;
+                    position: relative;
+                }
+                .el-icon-upload:before{
+                    content: ''!important;
+                    width: 60px;
+                    height: 57px;
+                    background: url(~@/assets/images/pic/upload.png) no-repeat;
+                    background-size: 100% 100%;
+                    position: absolute;
+                    top: 0;
+                    left: 0;
+                }
+                .el-upload__text{
+                    font-size: 16px;
+                    font-weight: 400;
+                    text-align: center;
+                    color: #333333;
+                    line-height: 24px;
+                }
+                .el-upload__text.text2{
+                    font-size: 14px;
+                    color: #999999;
+                    line-height: 22px;
+                }
+            }
+        }
+        .el-input__inner{
+            height: 36px;
+            line-height: 36px;
+        }
+        .com-btn{
+            height: 36px;
+            line-height: 36px;
+            padding: 0 24px;
+        }
+        .com-btn.btn-white{
+            background: #ffffff;
+            border: 1px solid #2e58f7;
+            color: #2e58f7;
+        }
+        .el-table thead tr{
+            background: rgba(46,88,247,0.05) !important;
+            border: 1px solid #e5ecf2;
+            border-radius: 4px 4px 0px 0px;
+
+        }
+        .el-table thead tr th{
+            background-color: rgba(46,88,247,0.05);
+            font-size: 14px;
+            font-weight: 500;
+            color: #333333;
+        }
+        .el-table tr{
+            height: 40px;
+            line-height: 40px;
+        }
+        .el-table--border th, .el-table--border td{
+            border-right: none;
+            text-align: center;
+            padding: 0;
+
+        }
+    }
+    .el-pagination{
+        .btn-prev,.btn-next,.el-pager li{
+            padding: 0;
+            background: #ffffff;
+            border: 1px solid #dddddd;
+            border-radius: 6px;
+            width: 32px;
+            height: 32px;
+            line-height: 32px !important;
+            font-size: 14px;
+            text-align: center;
+            color: #666666;
+            line-height: 22px;
+            font-weight: normal;
+            margin: 0 4px;
+        }
+        .el-pagination__jump{
+            margin-left: 16px;
+            .el-input__inner{
+                height: 32px;
+            }
+        }
+    }
+    a{
+        color: #1677ff;
+    }
+    .el-icon-arrow-down{
+        width: 14px;
+        height: 12px;
+        position: relative;
+        vertical-align: middle;
+        margin-left: 4px;
+    }
+    .el-icon-arrow-down:before{
+        content: '';
+        width: 14px;
+        height: 12px;
+        position: absolute;
+        top: 0;
+        left: 0;
+        background: url(~@/assets/images/pic/down.png) no-repeat;
+        background-size: 100% 100%;
+    }
+    .el-icon-folder-add{
+        width: 15px;
+        height: 14px;
+        position: relative;
+        vertical-align: middle;
+    }
+    .el-icon-folder-add:before{
+        content: '';
+        width: 15px;
+        height: 14px;
+        position: absolute;
+        top: 0;
+        left: 0;
+        background: url(~@/assets/images/pic/upload2.png) no-repeat;
+        background-size: 100% 100%;
+    }
+}
+
