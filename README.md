@@ -18,7 +18,7 @@
 
 - 模板可以绑定多个用例
 
-![image-20210327132422150](C:\typera\图片\image-20210327132422150.png)
+![image-20210327132422150](https://github.com/itnoobzzy/image_rep/blob/master/image-20210327132422150.png)
 
 ![image-20210327132646443](C:\typera\图片\image-20210327132646443.png)
 
